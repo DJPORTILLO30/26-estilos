@@ -1,0 +1,9 @@
+.contenedor{
+    display:flex;
+    background-color: cadetblue;
+    border: 1pt;
+    border-color: black;
+    }
+    .elemento{
+    width:25%;
+    }
